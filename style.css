@@ -1,0 +1,17 @@
+body {
+  padding: 10px;
+}
+
+input,
+textarea {
+  margin: 5px;
+  width: 90%;
+}
+
+textarea {
+  height: auto;
+}
+
+.id {
+  color: #999;
+}
